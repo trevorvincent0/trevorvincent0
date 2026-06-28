@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and enjoy solving complex security challenges
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/YOUR-GITHUB-USERNAME/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/trevorvincent0/Vulnerability-managemnt-program/blob/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell, Bash & Shell Commands)](https://github.com/YOUR-GITHUB-USERNAME/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
